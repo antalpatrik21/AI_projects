@@ -1,5 +1,5 @@
 # Image classification using VGG16
-#### This project was inspired by NVIDIA's fundementals of Deep Learning Course.
+#### This project was inspired by NVIDIA's Deep Learning Course.
 
 ##  For this cenario you are farmer who is herited his father's orchard and keen on modernization. Now the hardest task of yours is to make dinstinction between goods you produce, whether what is rotten and what is an excellent fruit. For this purpose you have to hire seasonal workers who examine the fruits one by one. 
 
